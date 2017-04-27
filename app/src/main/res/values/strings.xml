@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="n_mero_1">Número 1:</string>
+    <string name="n_mero_2">Número 2:</string>
+    <string name="resultado">Resultado...</string>
+    <string name="suma">Suma</string>
+    <string name="promedio">Promedio</string>
+    <string name="divisi_n">División</string>
+    <string name="mayor">Mayor</string>
+    <string name="menor">Menor</string>
+    <string name="resta">Resta</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="la_suma_es">La suma es:</string>
+    <string name="la_resta_es">La resta es:</string>
+    <string name="el_promedio_es">El promedio es:</string>
+    <string name="la_division_es">La division es:</string>
+    <string name="num_menor">El número menor es:</string>
+    <string name="num_mayor">El número mayor es:</string>
+</resources>

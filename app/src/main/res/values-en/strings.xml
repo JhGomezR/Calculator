@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="n_mero_1">Number 1:</string>
+    <string name="n_mero_2">Number 2:</string>
+    <string name="resultado">Result...</string>
+    <string name="suma">Sum</string>
+    <string name="promedio">Average</string>
+    <string name="divisi_n">Division</string>
+    <string name="mayor">Higher</string>
+    <string name="menor">Less</string>
+    <string name="resta">subtraction</string>
+    <string name="acerca_de">By...</string>
+    <string name="la_suma_es">The sum is:</string>
+    <string name="la_resta_es">The subtraction is:</string>
+    <string name="el_promedio_es">The averge is:</string>
+    <string name="la_division_es">The division is:</string>
+    <string name="num_menor">The number less is:</string>
+    <string name="num_mayor">The number higher is:</string>
+</resources>
